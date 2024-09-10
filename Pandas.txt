@@ -1,0 +1,8 @@
+You should deal with null values if you find any.
+You may change data types.
+Which month has the highest average revenue?
+Which year has the highest number of movies?
+which movie has the highest profit?
+Which movie is the most popular?
+Which movie has the highest budget?
+You should validate your results with the appropriate visuals.
